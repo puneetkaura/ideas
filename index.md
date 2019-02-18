@@ -1,28 +1,31 @@
-Welcome to pkaura's idea wiki - The good, The bad and sometimes the most ridiculous!
+### Disclaimer1 : Some ideas maybe injurious to your mental health and to the mental health of people around you.
+### Disclaimer2 : Use with caution!
 
-## The ridiculous ones
+## Welcome to pkaura's idea wiki - The good, The bad and ridiculous! concoctions of my brain
+
+## The RIDICULUOUS ones !-
 * InstaBanku - Access Banku's cuteness and topness on the go, and trouble others
 * ThulluApp - Kilsaofy others
-* **[NotRelevantNow]** MakeYourOwnYo | MakeyourownEthan
+* **[NotRelevantNow]** MakeYourOwnYo | MakeyourownEthan - Your own app for the phone, People can know about you, your social profiles, contact you via chat etc.
 * Comebacks for dummies - A guide for people who are bullied to craft comebacks
 * Send joke sms on call busy - SMS's not relevant anymore
-* **[NotRelevantNow]**Collect running bibs (ADHM)
-* IOwnThis - Instagram for geeks to show of their gadgets
+* **[NotRelevantNow]** Collect running bibs (ADHM)
+* IOwnThis - Instagram for geeks to show of their gadgets.
 
 ## The GOOD!
-* WeWantThis - Reverse kick starter, people come together and say that they want, community volunteers and gets things built, can work for closing opensource bugs, developing new features.
-* Reverse auction for restaurants/Eating places - You tell your budget, Eateries say what they can offer.
+* WeWantThis - Reverse kick starter, people come together and say that they want, community volunteers and gets things built, can work for closing opensource bugs, developing new features, dev stickers, geeky t-shirts.
+* Reverse auction for restaurants/Leisure places - You broadcast your head count and places bid for your money. For eg: Go to sector-29 in Gurgaon, broadcast you are a group of 10 people and get offers from restaurants
 * Fitness based group rewards (Probably powered by blockchain smart contracts and PayTM). Eg: Friends decide to give Rs 1000 to the person with maximum Running mileage during the week.
-* Analyze my Phone data - API for getting call and SMS info from your phone and giving insights - Whom do you call most etc.
+* Analyze my Phone data - API for getting call and SMS info from your phone and giving insights - Whom do you call most, whom have I stopped calling.
 * DialMonk clone - Call/SMS from your computer. Can SMS/Call be done via email, Get a callback when you click a link in gmail.
 * KnowThyself - Dashboard, fitness tracker, sent emails, sent slack messages, calls - like exist.io,Gyroscope. Basically a ME_API you can send me messages get to know about myself etc. 
 * SellMyData - Sell my txn history digital, Basically a marketplace for collecting data. Allow people to sell data for a reward (Data may be aggregated or not, anonymous or not). Datacoup and Data wallet
 * New Tab/New Swipe to discover stuff - Books in Chrome tab, movies in chrome tab, startups in chrome tab.
 * TagAlong - Group buying in the physical world in realtime.
 * Wemote.ly control camera of another person - like Be my eyes
-* Get a list of all Remote jobs for yourself for $10 | Post job listing at all job forums
+* Remote job aggregator | Get a list of all Remote jobs for yourself for $10 | Post job listing at all job forums
 * API for geek jokes
-* NicheJobForum - OldGeekjobs - MarketingJobs, BlockchainJobs
+* NicheJobForum - OldGeekjobs, MarketingJobs, BlockchainJobs, VC jobs. Highly curated.
 * Free POS for pharmacy and stores - Collect info tell which medicine where.
 * Group phone directory - Android for Companies
 * Dial someone without knowing there phone number. Basically an SDK - Allow person to dial from App only.
@@ -31,18 +34,17 @@ Welcome to pkaura's idea wiki - The good, The bad and sometimes the most ridicul
 * HateIVRS (Customer care number collection) - Flow directly to customer success person
 * access2excess - Get Access capacity for restaurants and Cinema halls
 * RealEsatate app for Projects - RERA compliance progress
-* Outsourced Sales for SaaS
-* Watchmen data collection
-* Shared real estate | Get your product into stores easily |  
-* Contract manufacturing as a service | Cont
-* How to use Bank API's - RBL | Yes Bank
+* Outsourced Sales for SaaS. Already happening via
+* Watchmen data collection - Real Estate portals collect info via Watchmen of the building about vacancies in the society.
+* Shared real estate | Get your product into stores easily | insta.store (When will I do this ?) 
+* Banking as API | When we would have N26 or Monzo of India.
 * API to physical world - Postmates/Lob - Photos/Postcard and hand written letters, Photography API, Police verification API, Aadhar verification as a service. Booking.com how are they sending
 * ParkingPass Delhi - Parking info and Pass
 * Anyflix - What to watch based on time and genre
 * Give retailer the opportunity to make money - Phone recharges, remittances --> Already happening. One thing that retailer can do is lead collection --> Convert footfalls --> business.
 * Notifications App, Fixed header app, Chrome extension - Statxtension
 * 2%DOC - Every doctor gives 2% of their time on network and answer patient queries.
-* Loan - Where how and generate the lead. Ixigo for loans, like in Singapore.
+* Loan - A search engine for loans where you can submit non identifiable data and then vendors can bid for the loan.
 * OnDemand Sales - like Ebiz, give ambitious young Indians things to sell using smartphone. Train them using smartphones.
 * Training - Sales for remote staff followed by a test
 * Control who can contact me - An app where phone number or email is never shared, you can connect to the business till you want. Connect can be time-bound, location bound etc.
@@ -64,7 +66,6 @@ Welcome to pkaura's idea wiki - The good, The bad and sometimes the most ridicul
 * InstantTest and Rank - For coaching classes
 * AdhaarVerify |PAN Verify | DL Verify | GST verify API's --> One API for India Stack
 * Escrow account which is programmable - Block money, release in parts - Blockchain implementation
-* Spacefi like website page for having co working spaces.
 * Call pair - Share a number tie it to outgoing and incoming numbers. Lead passing.
 * SampleStore - Suggested by a friend, samples of raw materials for industry to experiment with.
 * OneStop Logistics shop - I want to sent something from here to x, how do I do it, via Road/Air/Train.
