@@ -51,16 +51,16 @@
 * Sell my data - DataCoup, DataWallet - businesses pay to access your data. Blockchain implementation better here.
 * Gift cards API - https://merchant.egiftify.com/, https://pinegift.in/, Vauchar - Generate gift cards on demand using API - Say send Vouchers of Rs 100 to every 5th user etc
 * Semantic3 | NetKart - Products as a service, Bring Semantic3 to India
-* Corporate rewards for companies - netmeds.ecorpgifts.com - special offers from other companies
+* Corporate rewards for companies - netmeds.ecorpgifts.com - special offers from other companies. Something like 
 * Girlfriend SMS - http://thoughtcatalog.com/kris-miller/2017/05/19-texts-that-are-way-cuter-than-just-good-morning/
-* SMS server from your own phone
+* SMS server from your own phone (Dead now, who on earth will SMS)
 * Discourse for SME - Logistics | Storage | Working Capital | Legal | GST workforce on demand
-* Lal Path and Thyrocare and SRL SDK
+* Lal Path and Thyrocare and SRL SDK, Single API for all Diagnostics. MyUpchaar already has that.
 * Change Email signatures - for Google apps | HR 
 * App for Pushpanjali Enclave | Industrial Area | Transporters Directory Logistics
 * Better Fundoo data | Check dataguru
 * Show sample in any city | One company which can show samples in many cities. Shoes, candle, chairs etc.
-* Programmable Bank account and Credit card | Final or teller.io -- PSD2 banking, https://truelayer.com/, Open
+* Programmable Bank account and Credit card | Final or teller.io -- PSD2 banking, https://truelayer.com/, Open. Brex/Stripe already doing it.
 * Combine API from manyplayers into a single API : AfterShip
 * Workforce/Runners on demand in small Indian towns - Eliminate need of small mfg salesman traveling.
 * InstantTest and Rank - For coaching classes
@@ -74,6 +74,13 @@
 * ID-API - API for your basic info to be used in various places on the web.
 * Create your own bid site --> WeWork to auction coworking space for 3  months --> Bid by paying a token. Basically, shopify for bidding. Roll your own bidding. Bid can be placed by paying a small amount, if redacted then amount is confiscated.
 * India's mall has huge footfalls --> Many brands want to target this --> what can be done. Is there a website to check the branding options available in various malls or places of High footfalls (Co-Working spaces, Malls, Cafes like Starbucks).
+* StartupBenefits - Help SMB's get perks of big companies like Gym memberships, Group insurance by aggregating SMB demand.
+* Brand2Consumer - Allows brands to get direct access to their consumers/influencers, something like https://www.getperksy.com/.
+* Tech4Good - A community that helps build tech for NGOs. Example Help CharityBeds get a better website ?
+* Annotate Podcasts and Videos - People can listen to selective parts of the video or podcast and comment and discuss.
+* Income sharing agreements in India (Investing in People)
+* TokenAssets - Hbits.co - Tokenize assets so as to make them more accessible to people.
+
 
 
 
