@@ -1,16 +1,17 @@
-### Disclaimer1 : Some ideas maybe injurious to your mental health and to the mental health of people around you.
-### Disclaimer2 : Use with caution!
+### Disclaimer : Some ideas maybe injurious to your mental health and to the mental health of people around you. A lot of these ideas esp in the Ridiculous category mightnot make sense as they are inside jokes :)
 
 ## Welcome to pkaura's idea wiki - The good, The bad and ridiculous! concoctions of my brain
 
 ## The RIDICULUOUS ones !-
 * InstaBanku - Access Banku's cuteness and topness on the go, and trouble others
 * ThulluApp - Kilsaofy others
-* **[NotRelevantNow]** MakeYourOwnYo | MakeyourownEthan - Your own app for the phone, People can know about you, your social profiles, contact you via chat etc.
+* IOwnThis - Instagram for geeks to show of their gadgets.
 * Comebacks for dummies - A guide for people who are bullied to craft comebacks
 * Send joke sms on call busy - SMS's not relevant anymore
 * **[NotRelevantNow]** Collect running bibs (ADHM)
-* IOwnThis - Instagram for geeks to show of their gadgets.
+* **[NotRelevantNow]** MakeYourOwnYo | MakeyourownEthan - Your own app for the phone, People can know about you, your social profiles, contact you via chat etc.
+* 
+
 
 ## The GOOD!
 * WeWantThis - Reverse kick starter, people come together and say that they want, community volunteers and gets things built, can work for closing opensource bugs, developing new features, dev stickers, geeky t-shirts.
@@ -21,20 +22,20 @@
 * KnowThyself - Dashboard, fitness tracker, sent emails, sent slack messages, calls - like exist.io,Gyroscope. Basically a ME_API you can send me messages get to know about myself etc. 
 * SellMyData - Sell my txn history digital, Basically a marketplace for collecting data. Allow people to sell data for a reward (Data may be aggregated or not, anonymous or not). Datacoup and Data wallet
 * New Tab/New Swipe to discover stuff - Books in Chrome tab, movies in chrome tab, startups in chrome tab.
-* TagAlong - Group buying in the physical world in realtime.
+* TagAlong - Group buying in the physical world in realtime to get discounts.
 * Wemote.ly control camera of another person - like Be my eyes
 * Remote job aggregator | Get a list of all Remote jobs for yourself for $10 | Post job listing at all job forums
-* API for geek jokes
-* NicheJobForum - OldGeekjobs, MarketingJobs, BlockchainJobs, VC jobs. Highly curated.
-* Free POS for pharmacy and stores - Collect info tell which medicine where.
-* Group phone directory - Android for Companies
+* Simple API's - Geek jokes, Bank Holidays in India etc
+* NicheJobForum - OldGeekjobs, MarketingJobs, BlockchainJobs, VC jobs, Jobs for Handicap people. Highly curated.
+* Free POS for pharmacy and stores - Collect info tell which medicine where, has to be Mobile first with super quick checkout.
+* Group phone directory - Android for Companies, Allow leads to get added to Sales people phone directory, allow coworkers nos to be added to directory.
 * Dial someone without knowing there phone number. Basically an SDK - Allow person to dial from App only.
-* Teleconference API - SabseBolo ++
+* Teleconference API - SabseBolo ++, Teleconferencing is broken - Coordinate time, auto rejoin in disconnection, recording etc should be a given but still we struggle with it.
 * Disposable numbers - Burner App for listing on Quikr etc and choose contact hours, block numbers etc
 * HateIVRS (Customer care number collection) - Flow directly to customer success person
 * access2excess - Get Access capacity for restaurants and Cinema halls
 * RealEsatate app for Projects - RERA compliance progress
-* Outsourced Sales for SaaS. Already happening via
+* Outsourced Sales for SaaS. Already happening via Close, Cience - Basically a lot of SAAS centric lead generators.
 * Watchmen data collection - Real Estate portals collect info via Watchmen of the building about vacancies in the society.
 * Shared real estate | Get your product into stores easily | insta.store (When will I do this ?) 
 * Banking as API | When we would have N26 or Monzo of India.
@@ -44,8 +45,8 @@
 * Give retailer the opportunity to make money - Phone recharges, remittances --> Already happening. One thing that retailer can do is lead collection --> Convert footfalls --> business.
 * Notifications App, Fixed header app, Chrome extension - Statxtension
 * 2%DOC - Every doctor gives 2% of their time on network and answer patient queries.
-* Loan - A search engine for loans where you can submit non identifiable data and then vendors can bid for the loan.
-* OnDemand Sales - like Ebiz, give ambitious young Indians things to sell using smartphone. Train them using smartphones.
+* Loan - A search engine for loans where you can submit non identifiable data and then vendors can bid for the loan. /loan API for the internet. Integrate just one API and you can use to send info to as many lenders as you want.
+* OnDemand Sales - like Ebiz, give ambitious young Indians things to sell using smartphone. Train them using smartphones. Meesho/Shop101 already doing well here.
 * Training - Sales for remote staff followed by a test
 * Control who can contact me - An app where phone number or email is never shared, you can connect to the business till you want. Connect can be time-bound, location bound etc.
 * Sell my data - DataCoup, DataWallet - businesses pay to access your data. Blockchain implementation better here.
@@ -78,8 +79,9 @@
 * Brand2Consumer - Allows brands to get direct access to their consumers/influencers, something like https://www.getperksy.com/.
 * Tech4Good - A community that helps build tech for NGOs. Example Help CharityBeds get a better website ?
 * Annotate Podcasts and Videos - People can listen to selective parts of the video or podcast and comment and discuss.
-* Income sharing agreements in India (Investing in People)
+* Income sharing agreements in India (Investing in People), My dream project - Make helping people easier by aligning incentives.
 * TokenAssets - Hbits.co - Tokenize assets so as to make them more accessible to people.
+* UnMissable reminder (Android and iOS) - Send important notifications and messages to near/dear ones - Reminders they simply cant miss. Whatsapp and SMS overload cause people to miss important messages. The UnMissable reminder might add a sticky notification or change the desktop pic to allow the remindee to not miss the message.
 
 
 
